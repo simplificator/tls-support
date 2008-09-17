@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = %q{tls-support}
-  s.version = "0.2.1"
-  s.date = %q{2008-09-03}
+  s.version = "0.2.2"
+  s.date = %q{2008-09-17}
   s.authors = ["Simplificator GmbH"]
   s.email = %q{info@simplificator.com}
   s.summary = %q{adds tls support}
